@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Das</h1>
 <h3 align="center">A passionate frontend developer from India!</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrajdeep" alt="devrajdeep" /></a> </p>
 
