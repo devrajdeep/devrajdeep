@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Das</h1>
 <h3 align="center">A passionate frontend developer from India!</h3>
 <img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<a href="https://app.daily.dev/devrajdeep"><img src="https://api.daily.dev/devcards/e7bb2b7e794749c3bde865412c70954b.png?r=36h" width="400" alt="Rajdeep Das's Dev Card"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrajdeep" alt="devrajdeep" /></a> </p>
 
